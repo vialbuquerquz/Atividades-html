@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Olá mundo!</title>
+  </head>
+  <body>
+    <h1>FONTES:</h1>
+        <font color="#008000"
+    <p>"No mundo dos negócios todos são pagos em duas<br>
+      moedas: dinheiro e experiência. Agarre a experiência<br>
+      primeiro, o dinheiro virá depois." -- Harold Gennen</p>
+        <font color="#ff0000">
+    <p>"Há homens que lutam um dia e são bons.<br> 
+      Há outros que lutam muitos dias e são melhores.<br> 
+        <font color="#054f77">
+      Mas há os que lutam toda a vida e estes são imprescindíveis."</p>
+    <p>--Bertolt Brecht</p>
+  </body>
+</html>
